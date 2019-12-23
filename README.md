@@ -1,4 +1,4 @@
-For create HW or practise you should do:
+gFor create HW or practise you should do:
 
 1. `git checkout master` - переходимо на основну гілку master
 2. `git pull` - забираємо зміни з віддаленого репозиторію
